@@ -7,7 +7,7 @@ It highlights my ability to work on **real-world data pipelines, transformations
 
 
 
-## 🛠 Tech Stack
+##  Tech Stack
 - **Excel** – Data cleaning, duplicate removal, and data transformation  
 - **Python (Pandas)** – Quick automation for date formatting and bulk cleaning  
 - **Power BI** – Data modeling, measures, and dashboard creation  
