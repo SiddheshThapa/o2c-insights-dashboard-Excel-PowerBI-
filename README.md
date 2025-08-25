@@ -7,7 +7,7 @@ It highlights my ability to work on **real-world data pipelines, transformations
 
 
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 - **Excel** – Data cleaning, duplicate removal, and data transformation  
 - **Python (Pandas)** – Quick automation for date formatting and bulk cleaning  
 - **Power BI** – Data modeling, measures, and dashboard creation  
@@ -15,7 +15,7 @@ It highlights my ability to work on **real-world data pipelines, transformations
 
 ---
 
-## 🔑 KPIs & Metrics Built
+##  KPIs & Metrics Built
 Here are the key KPIs and visualizations implemented in the dashboard:
 
 | **KPI / Visualization** | **Description** |
